@@ -70,19 +70,6 @@
          <!--<h1>                 Keanan Ginell<div class="hi">🏃‍♂️         🏃‍♂️         🏃‍♂️         🏃‍♂️         🏃‍♂️</div></h1>-->
          <h1>Keanan Ginell<div class="hi">🏃‍♂️</div></h1>
          <p>Data Scientist and passionate runner</p>
-         <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
-  <a href="https://www.linkedin.com/in/keanan-ginell/" target="_blank">
-    <rect width="80" height="30" fill="#0077B5" />
-    <text x="20" y="20" fill="white">LinkedIn</text>
-  </a>
-  <a href="mailto:ginell_k1@denison.edu">
-    <rect x="100" width="80" height="30" fill="#D14836" />
-    <text x="120" y="20" fill="white">Gmail</text>
-  </a>
-</svg>
-         <!--<p>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keanan-ginell/)</p>
-         <p>[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginell_k1@denison.edu)</p>
--->
       </div>
     </div>
   </foreignObject>
