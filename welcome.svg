@@ -43,7 +43,7 @@
         .hi {
           animation: hi 4s linear -0.1s infinite;
           display: block;
-          transform-origin: 30% 30%;
+          transform-origin: 70% 30%;
         }
         @media (prefers-color-scheme: light) {
            .container {
