@@ -12,8 +12,10 @@ Hi I'm Keanan,
 
 I am a recent data science graduate from Flatiron. I have a B.A degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My interest in sustainability and data science developed through my athletic pursuits in NCAA Division III Cross Country and Track & Field. Through my passion for analyzing race data and creating running routes and trail maps, I strengthened my appreciation for the environment and realized an appreciation for detailed data-driven results. Since college I have transitioned to running marathons and further purused my passions for data science.
 
-Please checkout my capstone [![ClassiFire](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)
+Please checkout my capstone Project [![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)
+
+
+
 ⚡ Fun fact: I enjoy fixing bikes 🚲  and anything outdoors like cycling, cross country skiing, running, and hiking
 #
 <!--
