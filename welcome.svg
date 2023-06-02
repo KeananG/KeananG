@@ -39,6 +39,7 @@
           align-items: center;
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          white-space: pre;
         }
         .hi {
           animation: hi 25s linear -0.1s infinite;
@@ -65,14 +66,14 @@
           text-align: center;
         }
       </style>
-
-      <div class="container">
-        <h1>Keanan Ginell<div class="hi">🏃‍♂️</div></h1>
+       <div class="container">
+         <h1>Keanan Ginell<div class="hi">🏃‍♂️         🏃‍♂️         🏃‍♂️         🏃‍♂️         🏃‍♂️</div></h1>
          <p>Data Scientist and passionate runner</p>
       </div>
     </div>
   </foreignObject>
 </svg>
+     
 
 
 
