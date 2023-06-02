@@ -46,7 +46,7 @@
           animation: hi 3s linear -2s infinite;
           display: inline-block;
           position: relative; /* This line to enable positioning */
-          top: 20px; /* Adjust the value to move it higher on the y-axis */
+          bottom: 20px; /* Adjust the value to move it higher on the y-axis */
         }
         @media (prefers-color-scheme: light) {
            .container {
