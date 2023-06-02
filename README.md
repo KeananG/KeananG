@@ -26,7 +26,7 @@ Feel free to check out my capstone project:
   </a>
 </p>
 
-⚡ Fun fact: I enjoy fixing bikes 🚲 and spending time outdoors, engaging in activities like cycling, cross country skiing, running, and hiking.
+⚡ Fun fact: I enjoy fixing bikes 🚲 and spending time outdoors, cycling, cross country skiing, running, and hiking.
 #
 
 
