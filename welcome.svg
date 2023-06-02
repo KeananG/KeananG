@@ -38,7 +38,7 @@
             var(--color-tertiary)
           );
           background-size: 400% 400%;
-          animation: gradient 9s ease-in-out infinite;
+          animation: gradient 5s ease-in-out infinite;
           width: 100%;
           height: 300px;
           display: flex;
@@ -53,13 +53,11 @@
           transform-origin: 70% 70%;
         }
         @media (prefers-color-scheme: light) {
-          .container {
+           .container {
             --color-main: #FF6347; /* Dark Red */
             --color-primary: #8B0000; /* Lighter shade of Red */
             --color-secondary: #014421; /* Lighter shade of Green */
             --color-tertiary: #32CD32; /* green */
-        
-        
           }
         }
         .container {
@@ -74,14 +72,15 @@
           text-align: center;
         }
       </style>
+
       <div class="container">
-        <h1>Keanan Ginell<div class="hi"></div></h1>
-        <p>Data Scientist<div class="hi"></div></p>
-       <!-- <p>Environmentalist &amp; Data Scientist</p>-->
+        <h1>Hi there, my name is Keanan Ginell<div class="hi">👋</div></h1>
+         <p>I'm a Data Scientist and a passionate runner<div class="hi"></div></p>
       </div>
     </div>
   </foreignObject>
 </svg>
+
 
 
 
