@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<br>
+</br>
 <p align="center">
   <a href="https://www.linkedin.com/in/keanan-ginell/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
