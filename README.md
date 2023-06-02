@@ -3,6 +3,8 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/keanan-ginell/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginell_k1@denison.edu)
 
 <!--
 Here are some ideas to get you started:
