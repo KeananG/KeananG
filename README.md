@@ -8,15 +8,15 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginell_k1@denison.edu)
 
 ***
-Hi I'm Keanan,
+Hi, I'm Keanan!
 
-I am a recent data science graduate from Flatiron. I have a B.A degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My interest in sustainability and data science developed through my athletic pursuits in NCAA Division III Cross Country and Track & Field. Through my passion for analyzing race data and creating running routes and trail maps, I strengthened my appreciation for the environment and realized an appreciation for detailed data-driven results. Since college I have transitioned to running marathons and further purused my passions for data science.
+I recently graduated from Flatiron as a data science student. I hold a B.A. degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My passion for sustainability and data science grew while participating in NCAA Division III Cross Country and Track & Field. Analyzing race data, creating running routes, and designing trail maps deepened my appreciation for the environment and sparked my interest in data-driven results. Since college, I've transitioned to running marathons while continuing to pursue my passion for data science.
 
-Please checkout my capstone Project [![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)
+Feel free to check out my capstone project: [![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)
+
+⚡ Fun fact: I enjoy fixing bikes 🚲 and spending time outdoors, engaging in activities like cycling, cross country skiing, running, and hiking.
 
 
-
-⚡ Fun fact: I enjoy fixing bikes 🚲  and anything outdoors like cycling, cross country skiing, running, and hiking
 #
 <!--
 Here are some ideas to get you started
