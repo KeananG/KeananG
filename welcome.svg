@@ -46,7 +46,7 @@
           animation: hi 3s linear -2s infinite;
           display: inline-block;
           position: relative; /* This line to enable positioning */
-          top: 20px; /* Adjust the value to move it higher on the y-axis */
+          top: -20px; /* Adjust the value to move it higher on the y-axis */
         }
         @media (prefers-color-scheme: light) {
            .container {
@@ -83,10 +83,6 @@
 
 
 
-     <!-- <div class="container">
-        <h1>Keanan Ginell<div class="hi">🏃‍♂️</div></h1>
-        <p>Environmentalist &#38; Data Scientist</p>
-      </div>
-    </div>
-  </foreignObject>
-</svg>-->
+
+
+   
