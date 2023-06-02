@@ -3,9 +3,13 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keanan-ginell/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginell_k1@denison.edu)
+<p align="center">
+  <a href="https://www.linkedin.com/in/keanan-ginell/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
+    <a href="mailto:ginell_k1@denison.edu">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="gmail">
+  </a>
+</p>
 
 ***
 Hi, I'm Keanan!
@@ -22,6 +26,12 @@ Feel free to check out my capstone project:
 ⚡ Fun fact: I enjoy fixing bikes 🚲 and spending time outdoors, engaging in activities like cycling, cross country skiing, running, and hiking.
 #
 
+
+
+
+/* OLD */
+<!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keanan-ginell/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginell_k1@denison.edu)-->
 
 
 <!--Feel free to check out my capstone project:<br>
