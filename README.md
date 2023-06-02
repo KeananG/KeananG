@@ -3,6 +3,7 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/keanan-ginell/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
@@ -28,8 +29,7 @@ Feel free to check out my capstone project:
 
 
 
-
-/* OLD */
+<!-- OLD -->
 <!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keanan-ginell/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginell_k1@denison.edu)-->
 
