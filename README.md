@@ -10,14 +10,25 @@
 ***
 Hi, I'm Keanan!
 
-I recently graduated from Flatiron as a data science student. I hold a B.A. degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My passion for sustainability and data science grew while participating in NCAA Division III Cross Country and Track & Field. Analyzing race data, creating running routes, and designing trail maps deepened my appreciation for the environment and sparked my interest in data-driven results. Since college, I've transitioned to running marathons while continuing to pursue my passion for data science.
+I recently graduated from Flatiron as a data scientist. I hold a B.A. degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My passion for sustainability and data science grew while participating in NCAA Division III Cross Country and Track & Field. Analyzing race data, creating running routes, and designing trail maps deepened my appreciation for the environment and sparked my interest in data-driven results. Since college, I've transitioned to running marathons while continuing to pursue my passion for data science.
 
-Feel free to check out my capstone project: [![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)
+Feel free to check out my capstone project:
+<p align="center">
+  <a href="https://github.com/KeananG/WildFires_capstone">
+    <img src="https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white" alt="ClassiFire">
+  </a>
+</p>
 
 ⚡ Fun fact: I enjoy fixing bikes 🚲 and spending time outdoors, engaging in activities like cycling, cross country skiing, running, and hiking.
-
-
 #
+
+
+
+<!--Feel free to check out my capstone project:<br>
+<br-->
+<!--[![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)-->
+
+
 <!--
 Here are some ideas to get you started
 
