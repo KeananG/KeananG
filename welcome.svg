@@ -44,7 +44,7 @@
         .hi {
           animation: hi 2s linear -0.5s infinite;
           display: inline-block;
-          transform-origin: 80% 80%;
+          transform-origin: 70% 30%;
           animation: hi 3s linear -2s infinite;
         }
         @media (prefers-color-scheme: light) {
