@@ -59,13 +59,17 @@
           }
         }
       </style>
-
       <div class="container">
-        <h1>Keanan Ginell<div class="hi">👋</div></h1>
-        <ul>
-            <li>Environmentalist &#38; Data Scientist</li>
-          </ul>
+        <h1 style="display: block;">Keanan Ginell<div class="hi">🏃‍♂️</div></h1>
+        <p style="display: block;">Environmentalist &#38; Data Scientist</p>
       </div>
     </div>
   </foreignObject>
 </svg>
+     <!-- <div class="container">
+        <h1>Keanan Ginell<div class="hi">🏃‍♂️</div></h1>
+        <p>Environmentalist &#38; Data Scientist</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>-->
