@@ -1,3 +1,9 @@
+<hmtl>
+  <head>
+    <meta name="google-site-verification" content="wAf9QQOs5kAPnOrsAI0UlY-jfM-PyJn5BVfby6nqF7o" />
+  </head>
+</html>
+
 <div style="width: 100%;">
   <a href="https://github.com/KeananG/Profile-Welcome/edit/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
