@@ -1,5 +1,6 @@
-<hmtl>
+<html>
   <head>
+    <meta name="google-site-verification" content="tTOcI-YmiTZ3Xuq6HQ6IcowNe2aSWRV17QnJXH0ekO8" />
     <meta name="google-site-verification" content="wAf9QQOs5kAPnOrsAI0UlY-jfM-PyJn5BVfby6nqF7o" />
   </head>
 </html>
