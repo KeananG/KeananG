@@ -40,7 +40,6 @@ Feel free to check out my capstone project:
 <br-->
 <!--[![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/ClassiFire)-->
 
-<!-- google-site-verification: google657d3fe57997075f.html -->
 <!--
 Here are some ideas to get you started
 
