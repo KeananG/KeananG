@@ -21,7 +21,7 @@ I recently graduated from Flatiron as a data scientist. I hold a B.A. degree in 
 
 Feel free to check out my capstone project:
 <p align="center">
-  <a href="https://github.com/KeananG/WildFires_capstone">
+  <a href="https://github.com/KeananG/ClassiFire">
     <img src="https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white" alt="ClassiFire">
   </a>
 </p>
@@ -38,7 +38,7 @@ Feel free to check out my capstone project:
 
 <!--Feel free to check out my capstone project:<br>
 <br-->
-<!--[![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/WildFires_capstone)-->
+<!--[![ClassiFire](https://img.shields.io/badge/ClassiFire-black?logo=github&style=flat-square&logoColor=white)](https://github.com/KeananG/ClassiFire)-->
 
 
 <!--
