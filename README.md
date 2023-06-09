@@ -6,8 +6,8 @@
 
 
 <div style="width: 100%;">
-  <a href="https://github.com/KeananG/Profile-Welcome/edit/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/KeananG/Profile-Welcome/edit/main/boulders.svg">
+    <img src="boulders.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
@@ -21,8 +21,9 @@
   </a>
 </p>
 
+
 ***
-Hi, I'm Keanan!
+**Hi I'm Keanan Ginell**, a Data Scientist and an avid runner.
 
 I recently graduated from Flatiron as a data scientist. I hold a B.A. degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My passion for sustainability and data science grew while participating in NCAA Division III Cross Country and Track & Field. Analyzing race data, creating running routes, and designing trail maps deepened my appreciation for the environment and sparked my interest in data-driven results. Since college, I've transitioned to running marathons while continuing to pursue my passion for data science.
 
