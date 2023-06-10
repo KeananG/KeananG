@@ -5,9 +5,14 @@
 </head>
 
 
-<div style="width: 100%;">
+<!--<div style="width: 100%;">
   <a href="https://github.com/KeananG/Profile-Welcome/edit/main/boulders.svg">
     <img src="boulders.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>-->
+<div style="width: 100%;">
+  <a href="https://github.com/KeananG/Profile-Welcome/edit/main/starsf5.svg">
+    <img src="starsf5.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
