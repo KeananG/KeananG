@@ -3,18 +3,13 @@
   <meta name="google-site-verification" content="tTOcI-YmiTZ3Xuq6HQ6IcowNe2aSWRV17QnJXH0ekO8" />
   <meta name="google-site-verification" content="wAf9QQOs5kAPnOrsAI0UlY-jfM-PyJn5BVfby6nqF7o" />
 </head>
-
-
-<!--<div style="width: 100%;">
-  <a href="https://github.com/KeananG/Profile-Welcome/edit/main/boulders.svg">
-    <img src="boulders.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>-->
 <div style="width: 100%;">
   <a href="https://github.com/KeananG/Profile-Welcome/edit/main/starsf5.svg">
     <img src="starsf5.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+
+
 
 <!--<br>
 </br>-->
@@ -43,7 +38,11 @@ Feel free to check out my capstone project:
 
 ⚡ Fun fact: I enjoy fixing bikes 🚲 and spending time outdoors, cycling, cross country skiing, running, and hiking.
 #
-
+<div style="width: 100%;">
+  <a href="https://github.com/KeananG/Profile-Welcome/edit/main/boulders.svg">
+    <img src="boulders.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 
 <!-- OLD -->
