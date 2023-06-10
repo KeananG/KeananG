@@ -23,7 +23,7 @@
  
 
 ***
-Hi I'm Keanan, a Data Scientist and an avid runner.
+Hi I'm Keanan, a data scientist and an avid runner.
 
 I recently graduated from Flatiron as a data scientist. I hold a B.A. degree in Environmental Studies with a concentration in renewable energy systems from Denison University. My passion for sustainability and data science grew while participating in NCAA Division III Cross Country and Track & Field. Analyzing race data, creating running routes, and designing trail maps deepened my appreciation for the environment and sparked my interest in data-driven results. Since college, I've transitioned to running marathons while continuing to pursue my passion for data science.
 
